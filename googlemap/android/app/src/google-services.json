@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "902755712676",
+    "firebase_url": "https://petroute-f504d-default-rtdb.firebaseio.com",
+    "project_id": "petroute-f504d",
+    "storage_bucket": "petroute-f504d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902755712676:android:6e3b2012277f75c0653031",
+        "android_client_info": {
+          "package_name": "com.example.googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902755712676-al9c4971k086d6p6uod9n54vivted6bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodWmMPOQe3zDuEew-A176dEVDJLWrIbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902755712676-al9c4971k086d6p6uod9n54vivted6bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902755712676:android:676acfbb7ae3a9a2653031",
+        "android_client_info": {
+          "package_name": "com.example.petroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902755712676-al9c4971k086d6p6uod9n54vivted6bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodWmMPOQe3zDuEew-A176dEVDJLWrIbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902755712676-al9c4971k086d6p6uod9n54vivted6bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902755712676:android:064535ebc22ba641653031",
+        "android_client_info": {
+          "package_name": "com.example.petroute3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902755712676-al9c4971k086d6p6uod9n54vivted6bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodWmMPOQe3zDuEew-A176dEVDJLWrIbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902755712676-al9c4971k086d6p6uod9n54vivted6bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902755712676:android:c02dea5d91d8037d653031",
+        "android_client_info": {
+          "package_name": "com.petroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902755712676-al9c4971k086d6p6uod9n54vivted6bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodWmMPOQe3zDuEew-A176dEVDJLWrIbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902755712676-al9c4971k086d6p6uod9n54vivted6bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
